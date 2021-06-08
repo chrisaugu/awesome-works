@@ -13,6 +13,7 @@ Collection of all awesome websites/projects/apps I stumbled upon.
 * [Quora](https://www.quora.com/) - 
 * [StackOverFlow](https://www.stackoverflow.com/) - 
 * [Heroku](https://www.heroku.com/) - 
+* [Dannjs](https://dannjs.org) - Dannjs | Neural Network library for Javascript
 
 ## Browsers
 * [Duck Duck Go](https://duckduckgo.com) - 
