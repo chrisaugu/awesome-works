@@ -8,6 +8,7 @@ Collection of all awesome websites/projects/apps I stumbled upon.
 * [GeoGebra](https://www.geogebra.org/) - GeoGebra | Free Math Apps - used by over 100 Million Students & Teachers Worldwide
 * [Mathpix](http://grapher.mathpix.com/) - 3D Grapher
 * [Linear Algebra](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi?c=span) - Linear Algebra
+* [Demos](https://mathdemos.xyz/demos.html) - Interactive Mathematics Demonstrations
 
 ## Developers 
 * [Quora](https://www.quora.com/) - 
