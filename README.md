@@ -9,18 +9,17 @@ Collection of all awesome websites/projects/apps I stumbled upon.
 * [Mathpix](http://grapher.mathpix.com/) - 3D Grapher
 * [Linear Algebra](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi?c=span) - Linear Algebra
 * [Demos](https://mathdemos.xyz/demos.html) - Interactive Mathematics Demonstrations
+* [AlgebraCalculator](https://algebracalculator.net/)
 
 ## Developers 
 * [Quora](https://www.quora.com/) - 
 * [StackOverFlow](https://www.stackoverflow.com/) - 
 * [Heroku](https://www.heroku.com/) - 
 * [Dannjs](https://dannjs.org) - Dannjs | Neural Network library for Javascript
-
-## Browsers
-* [Duck Duck Go](https://duckduckgo.com) - Duck Duck Go
-
-## Hosts
 * [Netlify](https://app.netlify.com) - Netlify
 * [Vercel](https://vercel.com) - Vercel
 * [Heroku](https://heroku.com) - Heroku
 * [Clever Cloud](https://clevercloud.com) - Clever Cloud
+
+## Browsers
+* [Duck Duck Go](https://duckduckgo.com) - Duck Duck Go
