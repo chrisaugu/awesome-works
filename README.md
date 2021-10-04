@@ -17,4 +17,10 @@ Collection of all awesome websites/projects/apps I stumbled upon.
 * [Dannjs](https://dannjs.org) - Dannjs | Neural Network library for Javascript
 
 ## Browsers
-* [Duck Duck Go](https://duckduckgo.com) - 
+* [Duck Duck Go](https://duckduckgo.com) - Duck Duck Go
+
+## Hosts
+* [Netlify](https://app.netlify.com) - Netlify
+* [Vercel](https://vercel.com) - Vercel
+* [Heroku](https://heroku.com) - Heroku
+* [Clever Cloud](https://clevercloud.com) - Clever Cloud
