@@ -14,7 +14,6 @@ Collection of all awesome websites/projects/apps I stumbled upon.
 ## Developers 
 * [Quora](https://www.quora.com/) - 
 * [StackOverFlow](https://www.stackoverflow.com/) - 
-* [Heroku](https://www.heroku.com/) - 
 * [Dannjs](https://dannjs.org) - Dannjs | Neural Network library for Javascript
 * [Netlify](https://app.netlify.com) - Netlify
 * [Vercel](https://vercel.com) - Vercel
