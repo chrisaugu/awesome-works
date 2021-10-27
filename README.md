@@ -19,6 +19,7 @@ Collection of all awesome websites/projects/apps I stumbled upon.
 * [Vercel](https://vercel.com) - Vercel
 * [Heroku](https://heroku.com) - Heroku
 * [Clever Cloud](https://clevercloud.com) - Clever Cloud
+* [Mocky](https://designer.mocky.io/) - Mocky
 
 ## Browsers
 * [Duck Duck Go](https://duckduckgo.com) - Duck Duck Go
