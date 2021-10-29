@@ -20,6 +20,7 @@ Collection of all awesome websites/projects/apps I stumbled upon.
 * [Heroku](https://heroku.com) - Heroku
 * [Clever Cloud](https://clevercloud.com) - Clever Cloud
 * [Mocky](https://designer.mocky.io/) - Mocky
+* [Selection](https://www.section.io/modules/nodejs-edge-hosting/) - Selection
 
 ## Browsers
 * [Duck Duck Go](https://duckduckgo.com) - Duck Duck Go
