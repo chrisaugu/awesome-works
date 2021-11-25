@@ -21,6 +21,8 @@ Collection of all awesome websites/projects/apps I stumbled upon.
 * [Clever Cloud](https://clevercloud.com) - Clever Cloud
 * [Mocky](https://designer.mocky.io/) - Mocky
 * [Selection](https://www.section.io/modules/nodejs-edge-hosting/) - Selection
+* [Namecheap](https://www.namecheap/) - Namecheap
+* 
 
 ## Browsers
 * [Duck Duck Go](https://duckduckgo.com) - Duck Duck Go
