@@ -23,10 +23,13 @@ Collection of all awesome websites/projects/apps I stumbled upon.
 * [Selection](https://www.section.io/modules/nodejs-edge-hosting/) - Selection
 * [Namecheap](https://www.namecheap/) - Namecheap
 * [Kaffeine](https://kaffeine.herokuapp.com/) - Keffeine
+* [GEOJSON](https://geojson.io/)
+* [RESTGIS](https://restgis.com/)
+* [LeafletJs](https://leafletjs.com/)
+* [Layoutit](https://www.layoutit.com)
 
 ## Browsers
 * [Duck Duck Go](https://duckduckgo.com) - Duck Duck Go
-
 
 ## Ui
 * [Vuesax](https://vuesax.com/)
