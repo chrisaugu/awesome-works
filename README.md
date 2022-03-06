@@ -29,6 +29,7 @@ Collection of all awesome websites/projects/apps I stumbled upon.
 * [Layoutit](https://www.layoutit.com)
 * [Grid](https://grid.malven.co/)
 * [Flex](https://flexbox.malven.co/)
+* [Regex-Vis](https://regex-vis.com/)
 
 ## Browsers
 * [Duck Duck Go](https://duckduckgo.com) - Duck Duck Go
